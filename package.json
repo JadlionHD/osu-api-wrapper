@@ -1,0 +1,19 @@
+{
+  "name": "osu-api-wrapper",
+  "version": "1.0.0",
+  "description": "Simple osu api wrapper",
+  "main": "index.js",
+  "scripts": {
+    "doc": "jsdoc -c jsdoc.json"
+  },
+  "keywords": [
+    "osu",
+    "osu-api",
+    "osu-wrapper"
+  ],
+  "author": "JadlionHD",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.4"
+  }
+}
